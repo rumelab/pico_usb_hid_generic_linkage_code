@@ -4,7 +4,7 @@ This is the code for linkage study between RP2040 and USB port (on Raspberry Pi 
 This is done with the aid of [Pico SDK](https://github.com/raspberrypi/pico-sdk) and [TinyUSB](https://github.com/hathach/tinyusb).
 It receives any array of bytes with the length of 64 and return the message "Received!".
 
-## Execute the code.
+## Execute the code
 
 This project is build as a conventional CMake project.
 
