@@ -1,0 +1,16 @@
+{
+  "name": "usb_hid_host",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "list": "node src/list_devices.js",
+    "test": "node src/test_device.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-hid": "^3.1.2"
+  }
+}
